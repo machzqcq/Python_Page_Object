@@ -24,4 +24,12 @@ All of our tutorials on Ruby, Java, Python strive towards minimizing the languag
 [Modeling Page Objects] (http://www.seleniumframework.com/python-frameworks/modeling-page-objects/)  
 [Implement Page Object Pattern] (http://www.seleniumframework.com/python-frameworks/implement-page-object-pattern/)  
 [Complete Shopping Cart Workflow - Realtime project] (http://www.seleniumframework.com/python-frameworks/complete-the-workflow/)  
+  
+# Further Coaching  
+1. We provide instructor led coaching and training both at individual and corporate. 
+2. Basics of Python Coding - Just enough to understand Automation. 
+3. Coding to Designing of various frameworks & the "why" behind choices in real time projects. 
+4. And more....  
+
+If you are interested, please reach out by filling the form on the right [here] (http://www.seleniumframework.com/contact-2/)
 
