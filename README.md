@@ -1,4 +1,4 @@
-# python_behave_page_object_framework
+# Python Behave Page Object Pattern
 Selenium webdriver , python , behave  
 Tested on Python 2.7.10 & 3.4.2 and all libraries installed with the pip that came with 3.4.2  
 
