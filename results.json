@@ -1,0 +1,69 @@
+[
+{
+  "elements": [
+    {
+      "keyword": "Scenario", 
+      "location": "features\\Login.feature:3", 
+      "name": "Login and logout", 
+      "steps": [
+        {
+          "keyword": "When", 
+          "location": "features\\Login.feature:4", 
+          "match": {
+            "arguments": [], 
+            "location": "features\\steps\\ShoppingCart.py:7"
+          }, 
+          "name": "I open automationpractice website", 
+          "result": {
+            "duration": 6.2779998779296875, 
+            "status": "passed"
+          }, 
+          "step_type": "when"
+        }, 
+        {
+          "keyword": "And", 
+          "location": "features\\Login.feature:5", 
+          "match": {
+            "arguments": [
+              {
+                "value": "abc@xyz.com"
+              }, 
+              {
+                "value": "Test@123"
+              }
+            ], 
+            "location": "features\\steps\\ShoppingCart.py:14"
+          }, 
+          "name": "I login with username \"abc@xyz.com\" and password \"Test@123\"", 
+          "result": {
+            "duration": 1.3569998741149902, 
+            "status": "passed"
+          }, 
+          "step_type": "when"
+        }, 
+        {
+          "keyword": "Then", 
+          "location": "features\\Login.feature:6", 
+          "match": {
+            "arguments": [], 
+            "location": "features\\steps\\ShoppingCart.py:23"
+          }, 
+          "name": "I verify that I successfully logged in by logging out", 
+          "result": {
+            "duration": 1.2179999351501465, 
+            "status": "passed"
+          }, 
+          "step_type": "then"
+        }
+      ], 
+      "tags": [], 
+      "type": "scenario"
+    }
+  ], 
+  "keyword": "Feature", 
+  "location": "features\\Login.feature:1", 
+  "name": "Login to portal", 
+  "status": "passed", 
+  "tags": []
+}
+]
