@@ -3,14 +3,14 @@ Selenium webdriver , python , behave
 Tested on Python 2.7.10 & 3.4.2 and all libraries installed with the pip that came with 3.4.2  
 
 # Index  
-[What are Frameworks] (http://www.seleniumframework.com/python-frameworks/what-are-frameworks/)  
-[Roadmap & Future State] (http://www.seleniumframework.com/python-frameworks/road-map-and-future-state/)  
-[Behave Project Structure] (http://www.seleniumframework.com/python-frameworks/behave-project-structure/)  
-[What is Page Object] (http://www.seleniumframework.com/python-frameworks/what-is-page-object/)  
-[Base Page Object] (http://www.seleniumframework.com/python-frameworks/what-is-base-page/)  
-[Modeling Page Objects] (http://www.seleniumframework.com/python-frameworks/modeling-page-objects/)  
-[Implement Page Object Pattern] (http://www.seleniumframework.com/python-frameworks/implement-page-object-pattern/)  
-[Complete Shopping Cart Workflow - Realtime project] (http://www.seleniumframework.com/python-frameworks/complete-the-workflow/) 
+[What are Frameworks](http://www.seleniumframework.com/python-frameworks/what-are-frameworks/)  
+[Roadmap & Future State](http://www.seleniumframework.com/python-frameworks/road-map-and-future-state/)  
+[Behave Project Structure](http://www.seleniumframework.com/python-frameworks/behave-project-structure/)  
+[What is Page Object](http://www.seleniumframework.com/python-frameworks/what-is-page-object/)  
+[Base Page Object](http://www.seleniumframework.com/python-frameworks/what-is-base-page/)  
+[Modeling Page Objects](http://www.seleniumframework.com/python-frameworks/modeling-page-objects/)  
+[Implement Page Object Pattern](http://www.seleniumframework.com/python-frameworks/implement-page-object-pattern/)  
+[Complete Shopping Cart Workflow - Realtime project](http://www.seleniumframework.com/python-frameworks/complete-the-workflow/) 
 
 # Website
 This repository is part of all tutorials on [ Selenium Framework ](http://www.seleniumframework.com)  
