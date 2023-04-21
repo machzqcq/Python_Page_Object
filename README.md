@@ -31,5 +31,5 @@ All of our tutorials on Ruby, Java, Python strive towards minimizing the languag
 3. Coding to Designing of various frameworks & the "why" behind choices in real time projects. 
 4. And more....  
 
-If you are interested, please reach out by filling the form on the right [here] (http://www.seleniumframework.com/contact-2/)
+If you are interested, please reach out by emailing [Email](mailto:pradeep@seleniumframework.com)
 
